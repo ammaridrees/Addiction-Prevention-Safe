@@ -6,9 +6,10 @@ Our project is to implement a safe-like device that is designed to keep the user
 For more information, look at the [Final Documentation](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/Milestones/Final%20Project%20Detailed%20Design%20Report%20.pdf) file for in depth documentation.
 
 ## Getting Started
-(insert instructions here on how to recreate the project)
+These instructions will get you a copy of the project up and running on your local machine.
 
 ### Prerequisites
+Things you will need and how to get them.
 
 ## Deployment
 
