@@ -9,7 +9,13 @@ For more information, look at the [Final Documentation](https://github.com/aidre
 These instructions will get you a copy of the project up and running on your local machine.
 
 ### Prerequisites
-Things you will need and how to get them.
+Here are the things that are required to be installed:
+```
+Arduino - Software (IDE)
+Adafruit Fingerprint sensor library
+```
+
+### Installing
 
 ## Deployment
 
