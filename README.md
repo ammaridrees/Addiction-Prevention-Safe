@@ -6,15 +6,19 @@ Our project is to implement a safe-like device that is designed to keep the user
 For more information, look at the [Final Documentation](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/Milestones/Final%20Project%20Detailed%20Design%20Report%20.pdf) file for in depth documentation.
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-Here are the things that are required to be installed:
+What things you need to install the software and how to install them
 ```
 Arduino - Software (IDE)
-Adafruit Fingerprint sensor library
 ```
-
+[Download Here](https://www.arduino.cc/en/main/software) 
+- Instructions on how to install the IDE can be found [here](https://www.arduino.cc/en/Guide/HomePage)
+```
+Adafruit Fingerprint Sensor Library
+```
+[Download Here](https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library)
 ### Installing
 
 ## Deployment
