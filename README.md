@@ -20,6 +20,7 @@ Adafruit Fingerprint Sensor Library
 ```
 [Download Here](https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library)
 ### Installing
+How to get the environment ready:
 
 ## Deployment
 
