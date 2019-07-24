@@ -21,6 +21,10 @@ Adafruit Fingerprint Sensor Library
 [Download Here](https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library)
 ### Installing
 How to get the environment ready:
+```
+1. Launch the Arduino IDE. Your screen will look something like below.
+```
+![Alt text](https://gyazo.com/7ee490e7e942a0006358246dce866728.jpg)
 
 ## Deployment
 
