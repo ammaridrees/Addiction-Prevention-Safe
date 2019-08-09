@@ -16,6 +16,11 @@ Arduino Project Kit
 [Costs about $30](https://www.amazon.com/Kuman-Project-Complete-Starter-breadboard/dp/B016D5KUHS/ref=sr_1_5?s=pc&ie=UTF8&qid=1471547757&sr=1-5)
 - This project utilizes 4 Arduino boards, though it could be done with fewer.
 ```
+Fingerprint Sensor
+```
+[Costs about $50](https://www.adafruit.com/product/751?gclid=EAIaIQobChMI9cK2xfX04wIVhZyzCh1-4gKkEAQYASABEgJuXPD_BwE)
+- This project uses one sensor. There are cheaper alternatives that work as well.
+```
 Arduino - Software (IDE)
 ```
 [Download Here](https://www.arduino.cc/en/main/software) 
@@ -66,15 +71,21 @@ How to get the environment ready:
 10. Repeat steps 8 and 9 for each arduino. One for fingerprintLCD, one for Password, and two for servo.
 ```
 ## Deployment
+To get your own safe running, it's really up to you how you want to design it. As long as the arduinos are working as expected, there's no exact way to build it.
+
+We used a shoebox!
 
 ## Built With
-
-## Contributing??
+[Arduino](https://www.arduino.cc/en/main/software) - The IDE used
 
 ## Authors
 - Ammar Idrees - *Initial Design* - [aidree3](https://github.com/aidree3)
+- Umer Qazi - *Wiring* - [umerqazi98](https://github.com/umerqazi98)
+- Maaz Ahmed - *Wiring* - [mahmed029](https://github.com/mahmed029)
+- Hasan Ali - *Coding* - 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/LICENSE.md) file for details
 
 ## Acknowledgments
+- Used code from the Adafruit library to utilize fingerprint sensor
