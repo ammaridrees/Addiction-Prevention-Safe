@@ -11,6 +11,11 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 What things you need to install the software and how to install them
 ```
+Arduino Project Kit
+```
+[Costs about $30](https://www.amazon.com/Kuman-Project-Complete-Starter-breadboard/dp/B016D5KUHS/ref=sr_1_5?s=pc&ie=UTF8&qid=1471547757&sr=1-5)
+- This project utilizes 4 Arduino boards, though it could be done with fewer.
+```
 Arduino - Software (IDE)
 ```
 [Download Here](https://www.arduino.cc/en/main/software) 
@@ -37,7 +42,25 @@ How to get the environment ready:
 ```
 4. Navigate through the folder and open the finger print file.
 ```
-
+```
+5. Select "Sketch", next "Include Library", and then "Add .ZIP Library".
+```
+```
+6. Select the adafruit library .zip file. You won't get the error because I already have it added.
+```
+```
+7. Open the Password and Servo files as well.
+```
+```
+8. Connect an Arduino board to your computer. Make sure you have the wiring complete before doing this.
+```
+[View here for wiring.](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/Milestones/Final%20Project%20Detailed%20Design%20Report%20.pdf)
+```
+9. Once connected, press the upload button (the one with the arrow pointing right).
+```
+```
+10. Repeat steps 8 and 9 for each arduino. One for fingerprintLCD, one for Password, and two for servo.
+```
 ## Deployment
 
 ## Built With
