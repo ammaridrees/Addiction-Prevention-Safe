@@ -61,7 +61,7 @@ How to get the environment ready:
 ```
 9. Once connected, press the upload button (the one with the arrow pointing right).
 ```
-![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step9.PNG)
+![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step9.png)
 ```
 10. Repeat steps 8 and 9 for each arduino. One for fingerprintLCD, one for Password, and two for servo.
 ```
