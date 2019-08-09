@@ -42,7 +42,7 @@ How to get the environment ready:
 ```
 4. Navigate through the folder and open the finger print file.
 ```
-![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step4.PNG)
+![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step4.png)
 ```
 5. Select "Sketch", next "Include Library", and then "Add .ZIP Library".
 ```
