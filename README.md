@@ -81,7 +81,7 @@ We used a shoebox!
 ## Authors
 - Ammar Idrees - *Initial Design* - [aidree3](https://github.com/aidree3)
 - Umer Qazi - *Wiring* - [umerqazi98](https://github.com/umerqazi98)
-- Maaz Ahmed - *Wiring* - [mahmed029](https://github.com/mahmed029)
+- Maaz Ahmed - *Documentation* - [mahmed029](https://github.com/mahmed029)
 - Hasan Ali - *Coding* - 
 
 ## License
