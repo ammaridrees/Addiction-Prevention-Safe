@@ -82,7 +82,7 @@ We used a shoebox!
 - Ammar Idrees - *Initial Design* - [aidree3](https://github.com/aidree3)
 - Umer Qazi - *Wiring* - [umerqazi98](https://github.com/umerqazi98)
 - Maaz Ahmed - *Documentation* - [mahmed029](https://github.com/mahmed029)
-- Hasan Ali - *Coding* - 
+- Hasan Ali - *Coding* - [hasanb23](https://github.com/hasanb23)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/LICENSE.md) file for details
