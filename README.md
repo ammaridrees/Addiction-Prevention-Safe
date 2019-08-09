@@ -32,6 +32,7 @@ How to get the environment ready:
 ```
 3. Select "File", then "Open". Navigate to the folder that you saved the repository.
 ```
+![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step3.PNG)
 
 ## Deployment
 
