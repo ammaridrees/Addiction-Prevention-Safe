@@ -88,4 +88,4 @@ We used a shoebox!
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/LICENSE.md) file for details
 
 ## Acknowledgments
-- Used code from the Adafruit library to utilize fingerprint sensor
+Used code from the Adafruit library to utilize fingerprint sensor
