@@ -29,6 +29,9 @@ How to get the environment ready:
 2. Launch the Arduino IDE. Your screen will look something like below.
 ```
 ![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step%201.png)
+```
+3. Select "File", then "Open". Navigate to the folder that you saved the repository.
+```
 
 ## Deployment
 
