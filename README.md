@@ -30,9 +30,13 @@ How to get the environment ready:
 ```
 ![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step%201.png)
 ```
-3. Select "File", then "Open". Navigate to the folder that you saved the repository.
+3. Select "File", then "Open". Navigate to the folder that you saved the repository. 
+(Side note: If you've downloaded the adafruit library, you should place it in this folder.)
 ```
 ![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step3.PNG)
+```
+4. Navigate through the folder and open the finger print file.
+```
 
 ## Deployment
 
