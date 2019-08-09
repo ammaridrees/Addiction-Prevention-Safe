@@ -42,12 +42,15 @@ How to get the environment ready:
 ```
 4. Navigate through the folder and open the finger print file.
 ```
+![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step4.PNG)
 ```
 5. Select "Sketch", next "Include Library", and then "Add .ZIP Library".
 ```
+![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step5.gif)
 ```
 6. Select the adafruit library .zip file. You won't get the error because I already have it added.
 ```
+![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step6.gif)
 ```
 7. Open the Password and Servo files as well.
 ```
@@ -58,6 +61,7 @@ How to get the environment ready:
 ```
 9. Once connected, press the upload button (the one with the arrow pointing right).
 ```
+![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step9.PNG)
 ```
 10. Repeat steps 8 and 9 for each arduino. One for fingerprintLCD, one for Password, and two for servo.
 ```
