@@ -34,28 +34,28 @@ How to get the environment ready:
 ```
 1. On the repo, click the green "Clone or Download" button and select "Download ZIP". Save it.
 ```
-![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/e11f5cb48bae683eca943d7f490c9b7a.gif)
+![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/Tutorial%20Screenshots/e11f5cb48bae683eca943d7f490c9b7a.gif)
 ```
 2. Launch the Arduino IDE. Your screen will look something like below.
 ```
-![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step%201.png)
+![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/Tutorial%20Screenshots/Step%201.png)
 ```
 3. Select "File", then "Open". Navigate to the folder that you saved the repository. 
 (Side note: If you've downloaded the adafruit library, you should place it in this folder.)
 ```
-![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step3.PNG)
+![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/Tutorial%20Screenshots/Step3.PNG)
 ```
 4. Navigate through the folder and open the finger print file.
 ```
-![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step4.gif)
+![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/Tutorial%20Screenshots/Step4.gif)
 ```
 5. Select "Sketch", next "Include Library", and then "Add .ZIP Library".
 ```
-![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step5.gif)
+![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/Tutorial%20Screenshots/Step5.gif)
 ```
 6. Select the adafruit library .zip file. You won't get the error because I already have it added.
 ```
-![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step6.gif)
+![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/Tutorial%20Screenshots/Step6.gif)
 ```
 7. Open the Password and Servo files as well.
 ```
@@ -66,7 +66,7 @@ How to get the environment ready:
 ```
 9. Once connected, press the upload button (the one with the arrow pointing right).
 ```
-![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/GH%20Caps/Step9.png)
+![Alt text](https://github.com/aidree3/Addiction-Prevention-Safe/blob/master/Tutorial%20Screenshots/Step9.png)
 ```
 10. Repeat steps 8 and 9 for each arduino. One for fingerprintLCD, one for Password, and two for servo.
 ```
