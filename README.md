@@ -79,7 +79,7 @@ We used a shoebox!
 [Arduino](https://www.arduino.cc/en/main/software) - The IDE used
 
 ## Authors
-- Ammar Idrees - *Initial Design* - [aidree3](https://github.com/aidree3)
+- Ammar Idrees - *Initial Design* - [ammaridrees](https://github.com/ammaridrees)
 - Umer Qazi - *Wiring* - [umerqazi98](https://github.com/umerqazi98)
 - Maaz Ahmed - *Documentation* - [mahmed029](https://github.com/mahmed029)
 - Hasan Ali - *Coding* - [hasanb23](https://github.com/hasanb23)
